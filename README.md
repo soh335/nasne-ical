@@ -1,5 +1,7 @@
 # nasne-ical
 
+[![wercker status](https://app.wercker.com/status/23363eaa8f758f221810e90ea447b40f/s/master "wercker status")](https://app.wercker.com/project/bykey/23363eaa8f758f221810e90ea447b40f)
+
 convert record schedule of nasne to iCal
 
 ## Install
