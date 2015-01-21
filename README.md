@@ -11,7 +11,7 @@ $ go get github.com/soh335/nasne-ical
 ## Usage
 
 ```
-$ nasne-ical --host <host of nasne> --name "nasne ical" --tz Asia/Tokyo
+$ nasne-ical --host XXX.XXX.XXX.XXX --name "nasne ical" --tz Asia/Tokyo
 
 BEGIN:VCALENDAR
 PRODID:nasne-ical
